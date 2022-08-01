@@ -54,6 +54,9 @@
 
 @media (max-width: 768px) {
     
+     .footer                { width: 100%;}
+    
+    
     .nav-desk-links         { display: none;}
     
     .nav-hamb-col           { display: block;}
