@@ -1,0 +1,15 @@
+
+
+.usecases-card                  { border-radius: 12px; padding: 4em ; margin: 1em; vertical-align: middle ; border: 2px solid transparent; transition: 300ms; box-shadow: 0px 8px 20px 0px #00000070}
+.usecases-card:hover            { border: 2px solid #f3f3f3;}
+.usecases-card-tag              { color: #f3f3f3;}
+.usecases-card-img              { filter: invert(1); margin-top: 1em;}
+
+
+
+
+
+
+@media (max-width: 768px) {
+    .usecases-card                      { margin: 1em 2em; width: 80%;}
+}
